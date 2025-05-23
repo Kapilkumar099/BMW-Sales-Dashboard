@@ -7,7 +7,7 @@ Here is the link to the interactive dashboard : [Live](https://app.powerbi.com/l
 
 ---
 
-![Screenshot 2025-03-30 143644](https://github.com/user-attachments/assets/d38dbff1-1f39-4f02-a02f-af8e2d9ae473)
+![Screenshot 2025-05-23 143644](https://github.com/user-attachments/assets/d38dbff1-1f39-4f02-a02f-af8e2d9ae473)
 
 ---
 
