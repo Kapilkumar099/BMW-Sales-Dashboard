@@ -79,10 +79,10 @@ The dataset includes:
 
 ## 💡 Author
 
-Made with 💙 by Sejal Namdev
+Made with 💙 by Kapil Kumar Namdev
 
-📬 namdevsejal31@gmail.com
-🌐 [LinkedIn](https://www.linkedin.com/in/sejal-namdev-44a821319/)
+📬 kapilnamdev182@gmail.com
+🌐 [LinkedIn](https://www.linkedin.com/in/kapil-kumar-namdev-384366293)
 
 ---
 
